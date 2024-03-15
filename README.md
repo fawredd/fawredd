@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me enfoco en el desarrollo web Full Stack. Actualmente busco oportunidades como desarrollador Full Stack con Next.js</p>
+<p align="left">Desarrollador web Full Stack con una gran afinidad por el desarrollo backend.</p>
 
 ###
 
@@ -23,6 +23,10 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg height="40" alt="node.js logo"  />
+  <img width="20" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg' height="40" alt="node.js logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="next.js logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
