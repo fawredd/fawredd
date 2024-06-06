@@ -1,8 +1,8 @@
-<h1 align="left">Hola 👋, soy Marcos</h1>
+<h1 align="left">Hi 👋, I'm Marcos</h1>
 
 ###
 
-<p align="left">Desarrollador web Full Stack con una gran afinidad por el desarrollo backend.</p>
+<p align="left">Javascript developer.</p>
 
 ###
 
