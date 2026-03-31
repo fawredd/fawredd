@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Javascript developer.</p>
+<p align="left">Business Analyst</p>
 
 ###
 
